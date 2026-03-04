@@ -18,5 +18,5 @@ TIMSS2023_data_cleaning.R - Code for cleaning the 2023 TIMSS data
 
 VarianceCalculations.R - Code from [Nathan McJames study](https://github.com/Nathan-McJames/Homework-Paper/blob/main/VarianceCalculationsGitHub.R)
 
-HomeworkModel.cpp - Source code from [Nathan McJames study](https://github.com/Nathan-McJames/Homework-Paper/blob/main/HomeworkModelGitHub.cpp) which might requires some modification to increase the number of treatment variables 
+HomeworkModel.cpp - Code from [Nathan McJames study](https://github.com/Nathan-McJames/Homework-Paper/blob/main/HomeworkModelGitHub.cpp) 
 
